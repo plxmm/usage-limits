@@ -1,0 +1,5 @@
+{
+  "name": "usage-limits",
+  "owner": { "name": "plxmm" },
+  "plugins": [{ "name": "usage-limits", "source": "./" }]
+}
